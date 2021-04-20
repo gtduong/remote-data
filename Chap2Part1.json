@@ -3,7 +3,7 @@
 	"category":"Mortgage Lending Basics",
 	"content": {
 		"id":0,
-		"image":"TBD",
+		"image":"basic",
 		"time":"X hours",
 		"description":"Covers basic real estage and mortgage lending knowledge.",
 		"lessons": [{
@@ -58,7 +58,7 @@
 	},
 	"test": {
 		"id":1,
-		"image":"TBD",
+		"image":"basictest",
 		"time":"x minutes",
 		"description":"TEST QUESTIONS CHAPTER 2",
 		"questions":[{
